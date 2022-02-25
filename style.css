@@ -1,0 +1,25 @@
+body {
+    background-color: #D3D3D3;
+    color: #D3D3D3;
+}
+
+.con-box {
+    height: auto;
+    width: auto;
+}
+
+.img-box {
+    height: 300px;
+    width: 500px;
+}
+
+.title-box {
+    text-align: center;
+    background-color: darkgray;
+}
+
+#div-box {
+    height: auto;
+    width: 500px;
+    margin: auto;
+}
